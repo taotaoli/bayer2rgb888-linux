@@ -24,6 +24,9 @@ Running
        --swap,-s      if bpp == 16, swap byte order before conversion
        --help,-h      this helpful message
 
+test
+-------
+chmod +x test_run.bat
 ./test_run.bat
 
 Links
